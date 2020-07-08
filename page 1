@@ -1,0 +1,36 @@
+ <!DOCTYPE html>
+<html>
+  <head>
+    <title> Article about Wolves</title>
+  </head>
+
+
+<body>
+  <header>
+    <h1 text-align:"center"> Wolves in the wild</h1>
+    <p>An Article about wolves</p>
+
+    <nav>
+      <ul>
+        <li><a href"">Home</a></li>
+        <li><a href="">Lifestyle</a></li>
+        <li><a href="#">Diet</a></li>
+        <li><a href="#"></a></li>
+      </ul>
+    </nav>
+    </header>
+
+    <article class="">
+      <header>
+        <h2>Wolf Lifestyle</h2>
+        <a href="https://www.nationalgeographic.com/animals/mammals/g/gray-wolf/">Gray wolf</a>
+        <p>By: Rich Winkler</p>
+        <p>Published: September 26,2006</p>
+        <img src="https:\/\/www.rd.com\/wp-content\/uploads\/2019\/02\/US190307A.jpg" width="800" height="500" alt="wolf standing on ledge">
+      </header>
+    </article>
+
+    <h2>Diet</h2>
+      <p>The historic range of the gray wolf covered over two-thirds of the United States. Today gray wolves have populations in Alaska, northern Michigan, northern Wisconsin, western Montana, northern Idaho, northeast Oregon, and the Yellowstone area of Wyoming. Mexican wolves, a subspecies of the gray wolf, were reintroduced to protected parkland in eastern Arizona and southwest New Mexico. Wolves can thrive in a diversity of habitats from the tundra to woodlands, forests, grasslands and deserts.</p>
+      <p>One of the most odd part of the diet of wolves is fish! Biologist Bod Bromley once observed a wolf in Canada's Northwest Territories catch five fish in fifteen minutes in the Talston River.</p>
+      <p>Wolves will also eat wild berries and other fruit as a minor part of their diet.</p>
